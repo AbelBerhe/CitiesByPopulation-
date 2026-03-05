@@ -8,3 +8,4 @@ df = pd.read_csv('cities.csv')
 
 print(df.head())
 print(df.head())
+print(df.head())
