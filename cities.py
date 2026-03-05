@@ -5,4 +5,6 @@ import pandas as pd
 # import seaborn as sns
 
 df = pd.read_csv('cities.csv')
+
+print(df.head())
 print(df.head())
